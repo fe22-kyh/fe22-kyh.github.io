@@ -3,7 +3,7 @@
 # HTML & CSS
 1. [HTML intro - 14e September](https://github.com/fe22-kyh/html-14e-september)
 2. [CSS intro - 16e September](https://github.com/fe22-kyh/css-16e-september)
-3. [CSS cont. - 21e September(https://github.com/fe22-kyh/css-21e-september)
+3. [CSS cont. - 21e September](https://github.com/fe22-kyh/css-21e-september)
 
 
 ## Video material
