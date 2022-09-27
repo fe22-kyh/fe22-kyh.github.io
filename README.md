@@ -20,4 +20,5 @@
 - [Meyer reset](https://cdnjs.com/libraries/meyer-reset)
 - [Color hunt paletts](https://colorhunt.co/)
 - [Flex guidelines and properties](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [SEO optimization](https://bitspeicher.blog/seo-guide-frontend-developer/)
 
