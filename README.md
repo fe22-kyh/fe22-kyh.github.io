@@ -9,7 +9,7 @@
 3. [CSS cont. - 21e September](https://github.com/fe22-kyh/css-21e-september)
 4. [Flex - 23e September](https://github.com/fe22-kyh/flex-23e-september)
 5. [SEO - 28e September](https://github.com/fe22-kyh/seo-28e-september/)
-6. [Flex & Resp - 30e September(https://github.com/fe22-kyh/flex-resp-30e-september)
+6. [Flex & Resp - 30e September](https://github.com/fe22-kyh/flex-resp-30e-september)
 
 
 ## Video material 📹
@@ -24,4 +24,6 @@
 - [Color hunt paletts](https://colorhunt.co/)
 - [Flex guidelines and properties](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [SEO optimization](https://bitspeicher.blog/seo-guide-frontend-developer/)
+- [WhatWG article (med schema) exempel](https://html.spec.whatwg.org/multipage/sections.html#the-article-element)
+- [Semantic web MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
