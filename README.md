@@ -9,6 +9,7 @@
 3. [CSS cont. - 21e September](https://github.com/fe22-kyh/css-21e-september)
 4. [Flex - 23e September](https://github.com/fe22-kyh/flex-23e-september)
 5. [SEO - 28e September](https://github.com/fe22-kyh/seo-28e-september/)
+6. [Flex & Resp - 30e September(https://github.com/fe22-kyh/flex-resp-30e-september)
 
 
 ## Video material 📹
