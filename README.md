@@ -16,6 +16,7 @@
 - [3 fun uses of after and before](https://www.youtube.com/watch?v=QFjqxVMwIl8)
 - [Neon buttons with pseudo](https://www.youtube.com/watch?v=6xNcXwC6ikQ)
 - [Strikethrough behindline](https://www.youtube.com/watch?v=57JeRBZMbiE)
+- [Are you doing responive design wrong?](https://www.youtube.com/watch?v=0ohtVzCSHqs)
 
 ## Viktiga länkar 👀
 - [Meyer reset](https://cdnjs.com/libraries/meyer-reset)
