@@ -27,4 +27,5 @@
 - [SEO optimization](https://bitspeicher.blog/seo-guide-frontend-developer/)
 - [WhatWG article (med schema) exempel](https://html.spec.whatwg.org/multipage/sections.html#the-article-element)
 - [Semantic web MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [Can I use? - Check browser support](https://caniuse.com/)
 
