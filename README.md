@@ -12,7 +12,7 @@
 6. [Flex & Resp - 30e September](https://github.com/fe22-kyh/flex-resp-30e-september)
 7. [Responsive design - 5e Oktober](https://github.com/fe22-kyh/resp-5e-oktober)
 8. [Resp & Anim - 7e Oktober](https://github.com/fe22-kyh/anim-7e-oktober)
-9. [SCSS]()
+9. [SCSS - 12e Oktober](https://github.com/fe22-kyh/SCSS-12e-oktober)
 
 Examiniation
 https://github.com/fe22-kyh/12e-okt-examiniationsuppgift
