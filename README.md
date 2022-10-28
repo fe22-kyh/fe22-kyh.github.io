@@ -16,8 +16,8 @@
 10. [Examiniation](https://github.com/fe22-kyh/12e-okt-examiniationsuppgift)
 
 # Javascript del 1
-1. [Js intro - 26e Oktober](https://github.com/fe22-kyh/jsintro-26e-okt)
-1. [Js intro - 28e Oktober](https://github.com/fe22-kyh/jsintro-28e-okt)
+1. [Js intro del 1 - 26e Oktober](https://github.com/fe22-kyh/jsintro-26e-okt)
+1. [Js intro del 2 - 28e Oktober](https://github.com/fe22-kyh/jsintro-28e-okt)
 
 
 
