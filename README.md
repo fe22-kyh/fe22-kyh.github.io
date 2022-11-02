@@ -18,7 +18,7 @@
 # Javascript del 1
 1. [Js intro del 1 - 26e Oktober](https://github.com/fe22-kyh/jsintro-26e-okt)
 2. [Js intro del 2 - 28e Oktober](https://github.com/fe22-kyh/jsintro-28e-okt)
-3. [Js loops - 1a Oktober](https://github.com/fe22-kyh/loops-1a-oktober)
+3. [Js loops - 1a November](https://github.com/fe22-kyh/loops-1a-oktober)
 
 
 
