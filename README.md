@@ -21,6 +21,7 @@
 3. [Js loops - 1a November](https://github.com/fe22-kyh/loops-1a-oktober)
 4. [Js lists - 4e November](https://github.com/fe22-kyh/list-4e-november)
 5. [Js functions - 9e November](https://github.com/fe22-kyh/func-9e-november)
+6. [Js DOM - 11e November](https://github.com/fe22-kyh/dom-11-november)
 
 
 
