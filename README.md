@@ -22,6 +22,7 @@
 4. [Js lists - 4e November](https://github.com/fe22-kyh/list-4e-november)
 5. [Js functions - 9e November](https://github.com/fe22-kyh/func-9e-november)
 6. [Js DOM - 11e November](https://github.com/fe22-kyh/dom-11-november)
+7. [JS DOM part 2 - 16e November](https://github.com/fe22-kyh/dom-16-november)
 
 
 
