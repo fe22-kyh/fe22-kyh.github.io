@@ -24,7 +24,7 @@
 6. [Js DOM - 11e November](https://github.com/fe22-kyh/dom-11-november)
 7. [JS DOM part 2 - 16e November](https://github.com/fe22-kyh/dom-16-november)
 8. [JS Goodiebag - 18e November](https://github.com/fe22-kyh/mix-18-november)
-
+9. [High order functions - 23e November](https://github.com/fe22-kyh/hofs-23e-november)
 10. [Js examiniation](https://github.com/fe22-kyh/js1-examiniation)
 
 
