@@ -28,7 +28,8 @@
 10. [Images and functions - 30e November](https://github.com/fe22-kyh/images-30-november)
 11. [Js examiniation](https://github.com/fe22-kyh/js1-examiniation)
 
-
+# Arbetsmetodik del 2
+1. [Git intro - 7e December](https://github.com/fe22-kyh/git-7e-december)
 
 
 ## Video material 📹
