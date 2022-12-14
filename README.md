@@ -31,7 +31,7 @@
 # Arbetsmetodik del 2
 1. [Git intro - 7e December](https://github.com/fe22-kyh/git-7e-december)
 2. [Jasmine & Tictac - 14 December](https://github.com/fe22-kyh/tic-14-december)
-3. [Arbetsmetodik Examiniation]()
+3. [Arbetsmetodik Examiniation](https://github.com/fe22-kyh/arbetsmetodik-examiniation)
 
 
 ## Video material 📹
