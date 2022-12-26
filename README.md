@@ -33,6 +33,9 @@
 2. [Jasmine & Tictac - 14 December](https://github.com/fe22-kyh/tic-14-december)
 3. [Arbetsmetodik Examiniation](https://github.com/fe22-kyh/arbetsmetodik-examiniation)
 
+# Javascript del 2
+1. [OOP - 28e & 30e December](https://github.com/fe22-kyh/OOP-28e-30e-December)
+
 
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
