@@ -35,6 +35,7 @@
 
 # Javascript del 2
 1. [OOP - 28e & 30e December](https://github.com/fe22-kyh/OOP-28e-30e-December)
+2. [Fördjupning med Arv - 3e Januari](https://github.com/fe22-kyh/EXTRA-arv-3e-januari)
 
 
 ## Video material 📹
