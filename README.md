@@ -37,6 +37,7 @@
 1. [OOP - 28e & 30e December](https://github.com/fe22-kyh/OOP-28e-30e-December)
 2. [Fördjupning med Arv - 3e Januari](https://github.com/fe22-kyh/EXTRA-arv-3e-januari)
 3. [Jquery - 4e Januari](https://github.com/fe22-kyh/jquery-4e-januari)
+4. [Ajax - 11e Januari](https://github.com/fe22-kyh/ajax-11e-januari)
 
 
 ## Video material 📹
