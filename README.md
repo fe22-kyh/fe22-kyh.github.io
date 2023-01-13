@@ -38,6 +38,7 @@
 2. [Fördjupning med Arv - 3e Januari](https://github.com/fe22-kyh/EXTRA-arv-3e-januari)
 3. [Jquery - 4e Januari](https://github.com/fe22-kyh/jquery-4e-januari)
 4. [Ajax - 11e Januari](https://github.com/fe22-kyh/ajax-11e-januari)
+5. [Callbacks extra - 13e Januari](https://github.com/fe22-kyh/callback-13e-januari)
 
 
 ## Video material 📹
