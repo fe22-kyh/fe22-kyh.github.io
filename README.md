@@ -40,6 +40,7 @@
 4. [Ajax - 11e Januari](https://github.com/fe22-kyh/ajax-11e-januari)
 5. [Callbacks extra - 13e Januari](https://github.com/fe22-kyh/callback-13e-januari)
 6. [Framework - 18e Januari](https://github.com/fe22-kyh/framework-18e-januari)
+7. [Vue - 20e Januari](https://github.com/fe22-kyh/vue-20e-januari)
 
 
 ## Video material 📹
