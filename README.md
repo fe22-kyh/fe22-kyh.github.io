@@ -41,7 +41,7 @@
 5. [Callbacks extra - 13e Januari](https://github.com/fe22-kyh/callback-13e-januari)
 6. [Framework - 18e Januari](https://github.com/fe22-kyh/framework-18e-januari)
 7. [Vue - 20e Januari](https://github.com/fe22-kyh/vue-20e-januari)
-8. [JS 2 - 25e Januari](https://github.com/fe22-kyh/js2-examiniation)
+8. [JS 2 Examiniation - 25e Januari](https://github.com/fe22-kyh/js2-examiniation)
 
 
 ## Video material 📹
