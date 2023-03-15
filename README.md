@@ -48,6 +48,7 @@
 2. [Backend todo with express - 3e Mars](https://github.com/fe22-kyh/3e-mars-express)
 3. [Backend middleware m.m. - 8e Mars](https://github.com/fe22-kyh/8e-mars-db)
 4. [Backend DB + stateful med sessions - 10e Mars](https://github.com/fe22-kyh/10e-mars-db)
+5. [Backend REST - 15e Mars](https://github.com/fe22-kyh/14e-mars-rest)
 
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
