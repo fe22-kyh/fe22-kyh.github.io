@@ -50,6 +50,7 @@
 4. [Backend DB + stateful med sessions - 10e Mars](https://github.com/fe22-kyh/10e-mars-db)
 5. [Backend REST - 15e Mars](https://github.com/fe22-kyh/14e-mars-rest)
 6. [Backend Rest Cont. & Scapi](https://github.com/fe22-kyh/22a-mars-scapi)
+7. [Backend Strapi](https://github.com/fe22-kyh/24e-mars-strapi)
 
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
