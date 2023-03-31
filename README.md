@@ -52,6 +52,7 @@
 6. [Backend Rest Cont. & Scapi](https://github.com/fe22-kyh/22a-mars-scapi)
 7. [Backend Strapi](https://github.com/fe22-kyh/24e-mars-strapi)
 8. [Backend JWT](https://github.com/fe22-kyh/28e-mars-jwt)
+9. [Backend SocketIO](https://github.com/fe22-kyh/31a-mars-socketio)
 
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
