@@ -53,6 +53,7 @@
 7. [Backend Strapi](https://github.com/fe22-kyh/24e-mars-strapi)
 8. [Backend JWT](https://github.com/fe22-kyh/28e-mars-jwt)
 9. [Backend SocketIO](https://github.com/fe22-kyh/31a-mars-socketio)
+10. [Backend exam-uppgift](https://github.com/fe22-kyh/5e-april-examiniation)
 
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
