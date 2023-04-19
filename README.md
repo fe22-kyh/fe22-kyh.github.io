@@ -55,6 +55,9 @@
 9. [Backend SocketIO](https://github.com/fe22-kyh/31a-mars-socketio)
 10. [Backend exam-uppgift](https://github.com/fe22-kyh/5e-april-examiniation)
 
+# Javascript del 3
+1. [Polling - 19e April](https://github.com/fe22-kyh/19e-april-polling)
+
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
 - [3 fun uses of after and before](https://www.youtube.com/watch?v=QFjqxVMwIl8)
