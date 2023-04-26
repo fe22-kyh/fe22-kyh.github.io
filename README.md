@@ -58,6 +58,7 @@
 # Javascript del 3
 1. [Polling - 19e April](https://github.com/fe22-kyh/19e-april-polling)
 2. [Början på framework - 21a April](https://github.com/fe22-kyh/21a-april-kraken)
+3. [Components - 26e April](https://github.com/fe22-kyh/26e-april-components)
 
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
