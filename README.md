@@ -59,6 +59,7 @@
 1. [Polling - 19e April](https://github.com/fe22-kyh/19e-april-polling)
 2. [Början på framework - 21a April](https://github.com/fe22-kyh/21a-april-kraken)
 3. [Components - 26e April](https://github.com/fe22-kyh/26e-april-components)
+4. [React - 28e April](https://github.com/fe22-kyh/28e-april-react)
 
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
