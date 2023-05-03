@@ -60,6 +60,7 @@
 2. [Början på framework - 21a April](https://github.com/fe22-kyh/21a-april-kraken)
 3. [Components - 26e April](https://github.com/fe22-kyh/26e-april-components)
 4. [React - 28e April](https://github.com/fe22-kyh/28e-april-react)
+5. [React hooks - 3e Maj](https://github.com/fe22-kyh/3e-maj-hooks)
 
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
