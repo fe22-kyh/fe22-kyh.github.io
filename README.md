@@ -63,6 +63,7 @@
 5. [React hooks - 3e Maj](https://github.com/fe22-kyh/3e-maj-hooks)
 6. [React context - 9e Maj](https://github.com/fe22-kyh/9e-maj-context)
 7. [TDD Jest - 10e Maj](https://github.com/fe22-kyh/10e-maj-jest)
+8. [TDD Jest DOM - 12e Maj](https://github.com/fe22-kyh/12e-maj-jest-dom)
 
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
