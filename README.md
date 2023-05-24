@@ -64,6 +64,8 @@
 6. [React context - 9e Maj](https://github.com/fe22-kyh/9e-maj-context)
 7. [TDD Jest - 10e Maj](https://github.com/fe22-kyh/10e-maj-jest)
 8. [TDD Jest DOM - 12e Maj](https://github.com/fe22-kyh/12e-maj-jest-dom)
+9. [Javascript 3 - rep session](https://github.com/fe22-kyh/23e-Maj-rep)
+10. [Javascript 3 exam-uppgift](https://github.com/fe22-kyh/24e-Maj-Exam)
 
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
