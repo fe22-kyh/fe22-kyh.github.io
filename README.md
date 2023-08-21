@@ -67,6 +67,9 @@
 9. [Javascript 3 - rep session](https://github.com/fe22-kyh/23e-Maj-rep)
 10. [Javascript 3 exam-uppgift](https://github.com/fe22-kyh/24e-Maj-Exam)
 
+# Typescript
+1. [Repetition + typescript - 21a Augusti](https://github.com/fe22-kyh/21a-Aug-Rep-plus-TSC)
+
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
 - [3 fun uses of after and before](https://www.youtube.com/watch?v=QFjqxVMwIl8)
