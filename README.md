@@ -71,6 +71,7 @@
 1. [Repetition + typescript - 21a Augusti](https://github.com/fe22-kyh/21a-Aug-Rep-plus-TSC)
 2. [Types och interfaces - 24e Augusti](https://github.com/fe22-kyh/24e-aug-ts-types)
 3. [React ts - 28e Augusti](https://github.com/fe22-kyh/28e-augusti-reactts)
+4. [Typescript generics - 31a Augusti](https://github.com/fe22-kyh/31a-augusti-generics)
 
 ## Video material 📹
 - [after and before explained](https://www.youtube.com/watch?v=zGiirUiWslI)
